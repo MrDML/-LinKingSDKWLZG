@@ -1,0 +1,10 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'LinKingSDK_Example' do
+  pod 'LinKingSDK', :path => '../'
+
+
+  
+end
